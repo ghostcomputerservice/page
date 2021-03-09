@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+.page{
+	margin: 5px;
+	padding: 5px;
+	border: solid blue;
+	float: center;
+	max-width: 900px;
+	margin: 0 auto;
+}
+.banner{
+	margin: 5px;
+	padding: 5px;
+	border: solid red;
+	height: 200px;
+}
+.menu{
+	margin: 5px;
+	padding: 5px;
+	border: solid orange;
+	text-align: center;
+	width: 200px;
+	float: left;
+}
+.menu,a{
+	padding: 5px;
+	margin: 5px;
+	border: solid gray;
+	display: block;
+	color: red;
+	text-decoration: none;
+	font-size: 20px;
+}
+.content{
+	margin: 5px;
+	padding: 5px;
+	border: solid green;
+	height: 800px;
+}
+.footer{
+	margin: 5px;
+	padding: 5px;
+	border: solid yellow;
+	height: 50px;
+}
